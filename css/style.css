@@ -181,10 +181,10 @@ header{
 .add-publications{
     flex: 0 1 800px;
 }
-.add-publications h3,
-.publication-slider h3,
-.tariffs h3,
-.tariff-wrapper-info h3{
+.add-publications h1,
+.publication-slider h2,
+.tariffs h2,
+.tariff-wrapper-info h2{
     font-weight: 900;
     font-size: 60px;
     line-height: 70px;
@@ -270,7 +270,7 @@ footer{
     justify-content: space-between;
     margin-top: 140px;
 }
-.publication-slider h3{
+.publication-slider h2{
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -360,7 +360,7 @@ footer{
     z-index: 2;
     position: relative;
 }
-.tariffs h3{
+.tariffs h2{
     margin: 30px 0 35px;
 }
 .tariff-wrapper{
@@ -418,7 +418,7 @@ footer{
     text-align: center;
     position: relative;
 }
-.tariff-wrapper-info h3{
+.tariff-wrapper-info h2{
     margin: 35px 0 30px;
 }
 .tariff-info{
@@ -567,13 +567,13 @@ footer{
         width: 350px;
         height: 380px;
     }
-    .publication-slider h3{
+    .publication-slider h2{
         margin-bottom: 0;
     }
     .publication-slider .gallery ul li{
         margin: 20px 60px 0 0;
     }
-    .tariffs h3{
+    .tariffs h2{
         margin: 0 0 20px;
     }
     .tariff-wrapper .tariff{
@@ -589,7 +589,7 @@ footer{
     .tariff .more-details {
         font-size: 20px;
     }
-    .tariff-wrapper-info h3 {
+    .tariff-wrapper-info h2 {
         margin: 0;
     }
     .tariff-info {
@@ -654,7 +654,7 @@ footer{
     .tariff-info-right{
         font-size: 32px;
     }
-    .tariff-wrapper-info h3 {
+    .tariff-wrapper-info h2 {
         margin: 25px 0 20px;
     }
     .compare{
@@ -666,10 +666,10 @@ footer{
     .smart-container{
         max-width: 1100px;
     }
-    .add-publications h3,
-    .publication-slider h3,
-    .tariffs h3,
-    .tariff-wrapper-info h3{
+    .add-publications h1,
+    .publication-slider h2,
+    .tariffs h2,
+    .tariff-wrapper-info h2{
         font-size: 40px;
     }
     .first-publication svg {
@@ -710,13 +710,13 @@ footer{
     .publication-of-week {
         margin-top: 20px;
     }
-    .tariffs h3 {
+    .tariffs h2 {
         margin: 0;
     }
     .tariff-wrapper .tariff {
         height: 435px;
     }
-    .tariff-wrapper-info h3{
+    .tariff-wrapper-info h2{
         margin: 0;
     }
     .tariff-info {
@@ -737,10 +737,10 @@ footer{
         width: 527px;
         height: 406px;
     }
-    .add-publications h3,
-    .publication-slider h3,
-    .tariffs h3,
-    .tariff-wrapper-info h3 {
+    .add-publications h1,
+    .publication-slider h2,
+    .tariffs h2,
+    .tariff-wrapper-info h2 {
         font-size: 36px;
     }
     .add-publications p{
@@ -794,7 +794,7 @@ footer{
     .publication-of-week {
         margin-top: 35px;
     }
-    .tariffs h3 {
+    .tariffs h2 {
         margin: 0;
     }
     .tariffs h4 {
@@ -812,7 +812,7 @@ footer{
     .tariff-wrapper .tariff{
         height: 395px;
     }
-    .tariff-wrapper-info h3{
+    .tariff-wrapper-info h2{
         margin: 0;
     }
     .tariff-info {
@@ -838,8 +838,8 @@ footer{
         width: 447px;
         height: 326px;
     }
-    .add-publications h3,
-    .publication-slider h3{
+    .add-publications h1,
+    .publication-slider h2{
         font-size: 24px;
         line-height: 40px;
     }
@@ -878,7 +878,7 @@ footer{
         width: 279px;
         height: 420px;
     }
-    .tariff-wrapper-info h3{
+    .tariff-wrapper-info h2{
         line-height: 40px;
     }
     .tariff-info{
@@ -923,7 +923,7 @@ footer{
         margin-bottom: 0;
         margin-top: 0;
     }
-    .add-publications h3,
+    .add-publications h1,
     .add-publications p{
         margin-bottom: 10px;
     }
@@ -934,13 +934,13 @@ footer{
         width: 155px;
         height: 214px;
     }
-    .publication-slider h3{
+    .publication-slider h2{
         margin-bottom: 0;
     }
     .publication-of-week{
         margin-bottom: 0;
     }
-    .tariffs h3 {
+    .tariffs h2 {
         margin: 0;
     }
     .tariff-wrapper .tariff {
@@ -963,7 +963,7 @@ footer{
     .arrow-up-down {
         margin: 10px 0 0 4px;
     }
-    .tariff-wrapper-info h3 {
+    .tariff-wrapper-info h2{
         display: none;
     }
     .tariff-info{
@@ -1028,7 +1028,7 @@ footer{
         display: flex;
         flex-direction: column;
     }
-    .add-publications h3{
+    .add-publications h1{
         text-align: center;
         margin-bottom: 10px;
     }
@@ -1043,7 +1043,7 @@ footer{
     .publication-slider{
         margin-top: 20px;
     }
-    .publication-slider h3{
+    .publication-slider h2{
         flex-direction: column;
     }
     .arrow-wrapper {
@@ -1142,7 +1142,7 @@ footer{
         width: 170px;
         height: 180px;
     }
-    .tariffs h3 {
+    .tariffs h2 {
         margin: 10px 0 15px;
     }
     .tariff-info {
@@ -1178,7 +1178,7 @@ footer{
     .smart-container{
         max-width: calc(100% - 10px);
     }
-    .publication-slider h3{
+    .publication-slider h2{
         margin-bottom: 0;
     }
     .arrow-wrapper{
@@ -1187,13 +1187,13 @@ footer{
     .publication-slider .gallery ul li{
         margin: 10px 5px 0;
     }
-    .tariffs h3{
+    .tariffs h2{
         margin: 0;
     }
     .tariff-wrapper .tariff {
         height: 445px;
     }
-    .tariff-wrapper-info h3{
+    .tariff-wrapper-info h2{
         margin: 0;
     }
     .tariff-info {
@@ -1248,7 +1248,7 @@ footer{
     .first-publication{
         display: none;
     }
-    .publication-slider h3 {
+    .publication-slider h2 {
         margin-bottom: 10px;
     }
     .arrow-wrapper {
@@ -1272,7 +1272,7 @@ footer{
     .tariff-wrapper {
         margin-left: 1135px;
     }
-    .tariff-wrapper-info h3{
+    .tariff-wrapper-info h2{
         line-height: 40px;
     }
     .tariff-info-left {
